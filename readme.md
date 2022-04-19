@@ -141,5 +141,5 @@ plus setting the path for the dashboard in `rootPath: '/admin'`
 
 Now if we will open our server at the designated port (5050 in this example) and go to the admin url (`/admin`) in this example we will see the glorious dashboard ready to be used with our data. 
 
-![](http://barcelonacodeschool.com/files/currfiles/adminbrodemo.gif)
+![demo admin dashboard](http://barcelonacodeschool.com/files/currfiles/adminbrodemo.gif)
 
