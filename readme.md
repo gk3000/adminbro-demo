@@ -4,7 +4,7 @@ Admin Bro demo with express, mongoDB, mongoose
 
 # Creating an admin area in five minutes with AdminBro
 
-Where is a way to set up an admin area and start working with your data in five minutes without actually building all the admin routes and controllers. Here is how...
+There is a way to set up an admin area and start working with your data in five minutes without actually building all the admin routes and controllers. Here is how...
 
 All we need to have is models and then we can use the Admin Bro package to run the fully working dashboard based on nothing but our models. 
 
